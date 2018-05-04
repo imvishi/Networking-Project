@@ -1,4 +1,4 @@
-# Networking-Project
+﻿# Networking-Project
 Network Topology using Cisco Packet Tracker
 ## Cisco Packet Tracker
 Cisco Packet Tracer is a network simulation program that allows us to experiment with network behavior and ask “what if” questions. 
@@ -7,3 +7,14 @@ Packet Tracer can be used to understand various concepts of networking with simu
 ## Topology
 
 In this Project, a network topology is designed and all the concept of routing and switching is used
+
+
+## configuration file 
+
+The configuration of various routers and switches at different location is present in confriguration file
+
+## Networking.pkt
+
+Actual Network topology is present in this file
+
+ 
